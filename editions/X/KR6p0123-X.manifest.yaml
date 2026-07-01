@@ -1,0 +1,1518 @@
+canonical_identifier: bkk:krp/KR6p0123/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0123/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蓮修起信錄
+  identifiers:
+    krp: KR6p0123
+    cbeta: X62n1204
+    cbeta_old_id: X62n1204
+    authorityid: CA0002053
+    json_key: X1204
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1204.xml
+    old_id: X62n1204
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0123_000-X.yaml, hash: 'sha256:bcf7872381f98a794ce7a4d8bb2412b0f3b7194133f6df0f9e5dfce3bdb36292'}
+  - {seq: 1, filename: KR6p0123_001-X.yaml, hash: 'sha256:eafed523a960f03e54387a14057c1e23aefd256cb38765d2a08eca852bdd9f7d'}
+  - {seq: 2, filename: KR6p0123_002-X.yaml, hash: 'sha256:a8bbbbe61f8695987f1f5dfcf03e25f4f570c3adddb15616e8c6c232a0d859f6'}
+  - {seq: 3, filename: KR6p0123_003-X.yaml, hash: 'sha256:095883d011a2b72efdc2fb9ab22f276fd10358927a513f4f5fe191cb96dbeba8'}
+  - {seq: 4, filename: KR6p0123_004-X.yaml, hash: 'sha256:6564be81327e59ab5dbd232abe9df1a6a02d5e8e99f72478b7c2c719952a1ce2'}
+  - {seq: 5, filename: KR6p0123_005-X.yaml, hash: 'sha256:4d713fcf461f8e3485ccb26040d870dcb36e7f6b488089d0e1f31a911acdd75a'}
+  - {seq: 6, filename: KR6p0123_006-X.yaml, hash: 'sha256:e4a8905474ada89a0ef8db4aeb43bafe5251c3b883c30467877c84d0ea7e1fb7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0123_000-X.markers.yaml, hash: 'sha256:026607ad39e038767e12818df9aeb0f4fffbc14a794989bceeff8a8fed037fdd'}
+  - {seq: 1, role: markers, filename: assets/KR6p0123_001-X.markers.yaml, hash: 'sha256:a82b809fd8fcb5774ae2c678a67e68769a6f344bdbc90df69b3a5a8dbf091b4e'}
+  - {seq: 2, role: markers, filename: assets/KR6p0123_002-X.markers.yaml, hash: 'sha256:ea1e58e572519f78ffc6866f115d4f3eabfc3be1bebdd77511b97af420bf8fe9'}
+  - {seq: 3, role: markers, filename: assets/KR6p0123_003-X.markers.yaml, hash: 'sha256:4bc594c38dd6394802a4a8d0e6616df7449d4839852845e6b04e5bb468d9138c'}
+  - {seq: 4, role: markers, filename: assets/KR6p0123_004-X.markers.yaml, hash: 'sha256:01667a21453a4e749d155efb9050d06e6c629200ab483efc1728918d79a27515'}
+  - {seq: 5, role: markers, filename: assets/KR6p0123_005-X.markers.yaml, hash: 'sha256:2ed3143217dbe41a555e2faf9e2dad5e6067dac9b607e699c1063c522f4c078b'}
+  - {seq: 6, role: markers, filename: assets/KR6p0123_006-X.markers.yaml, hash: 'sha256:b66d15788ac1db30076a3e9a9f794637c27836fd37e815fcb0e74ecc09ee60c9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0123_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1204-A 蓮修起信錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0123_X_000-mulu-2
+    span:
+    - front
+    - 217
+    - 217
+  label: No. 1204-B 淨雲菩薩敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0123_X_000-mulu-3
+    span:
+    - front
+    - 689
+    - 689
+  label: No. 1204-C 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0123_X_000-mulu-4
+    span:
+    - front
+    - 1379
+    - 1379
+  label: No. 1204-D 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0123_X_000-mulu-5
+    span:
+    - front
+    - 1727
+    - 1727
+  label: No. 1204-E 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0123_X_000-mulu-6
+    span:
+    - front
+    - 3079
+    - 3079
+  label: 蓮修起信錄目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5710
+  label: 蓮修起信錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 蓮󳬛寶訓上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 大勢至菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-3
+    span:
+    - body
+    - 241
+    - 241
+  label: 明華嚩囉哆菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-4
+    span:
+    - body
+    - 669
+    - 669
+  label: 普慧菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-5
+    span:
+    - body
+    - 1033
+    - 1033
+  label: 囉囉了悟菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-6
+    span:
+    - body
+    - 1408
+    - 1408
+  label: 過去正法明如來寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-7
+    span:
+    - body
+    - 1720
+    - 1720
+  label: 名文光如來寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-8
+    span:
+    - body
+    - 2025
+    - 2025
+  label: 智慧玲瓏嚩囉噠哆如來寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-9
+    span:
+    - body
+    - 3986
+    - 3986
+  label: 華嚴會上菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-10
+    span:
+    - body
+    - 4628
+    - 4628
+  label: 大明蓮池伏虎禪師寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0123_X_001-mulu-11
+    span:
+    - body
+    - 5073
+    - 5073
+  label: 文殊師利菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 3898
+  label: 蓮修起信論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 蓮󳬛寶訓下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 釋迦彌陀世尊寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-mulu-3
+    span:
+    - body
+    - 900
+    - 900
+  label: 過去正法明如來寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-mulu-4
+    span:
+    - body
+    - 1468
+    - 1468
+  label: 守檀橫超菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-mulu-5
+    span:
+    - body
+    - 1711
+    - 1711
+  label: 一誠菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-mulu-6
+    span:
+    - body
+    - 2918
+    - 2918
+  label: 監壇一誠菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0123_X_002-mulu-7
+    span:
+    - body
+    - 3049
+    - 3049
+  label: 守壇淨廣菩薩寶訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0123_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 3338
+  label: 蓮修起信錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0123_X_003-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 往生徵信錄上
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0123_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 2972
+  label: 蓮修起信錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0123_X_004-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 往生徵信錄下
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 2950
+  label: 蓮修起信錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 華陀大士籤方
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-2
+    span:
+    - body
+    - 113
+    - 113
+  label: 內證籤方
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-3
+    span:
+    - body
+    - 117
+    - 117
+  label: 第壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-4
+    span:
+    - body
+    - 168
+    - 168
+  label: 第貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-5
+    span:
+    - body
+    - 215
+    - 215
+  label: 第參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-6
+    span:
+    - body
+    - 259
+    - 259
+  label: 第肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-7
+    span:
+    - body
+    - 306
+    - 306
+  label: 第伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-8
+    span:
+    - body
+    - 343
+    - 343
+  label: 第陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-9
+    span:
+    - body
+    - 390
+    - 390
+  label: 第柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-10
+    span:
+    - body
+    - 432
+    - 432
+  label: 第捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-11
+    span:
+    - body
+    - 476
+    - 476
+  label: 第玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-12
+    span:
+    - body
+    - 507
+    - 507
+  label: 第拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-13
+    span:
+    - body
+    - 547
+    - 547
+  label: 第拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-14
+    span:
+    - body
+    - 591
+    - 591
+  label: 第拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-15
+    span:
+    - body
+    - 635
+    - 635
+  label: 第拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-16
+    span:
+    - body
+    - 667
+    - 667
+  label: 第拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-17
+    span:
+    - body
+    - 699
+    - 699
+  label: 第拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-18
+    span:
+    - body
+    - 730
+    - 730
+  label: 第拾陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-19
+    span:
+    - body
+    - 776
+    - 776
+  label: 第拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-20
+    span:
+    - body
+    - 820
+    - 820
+  label: 第拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-21
+    span:
+    - body
+    - 866
+    - 866
+  label: 第拾玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-22
+    span:
+    - body
+    - 914
+    - 914
+  label: 第貳拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-23
+    span:
+    - body
+    - 946
+    - 946
+  label: 第貳拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-24
+    span:
+    - body
+    - 992
+    - 992
+  label: 第貳拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-25
+    span:
+    - body
+    - 1025
+    - 1025
+  label: 第貳拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-26
+    span:
+    - body
+    - 1058
+    - 1058
+  label: 第貳拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-27
+    span:
+    - body
+    - 1091
+    - 1091
+  label: 第貳拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-28
+    span:
+    - body
+    - 1137
+    - 1137
+  label: 第貳拾陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-29
+    span:
+    - body
+    - 1170
+    - 1170
+  label: 第貳拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-30
+    span:
+    - body
+    - 1203
+    - 1203
+  label: 第貳拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-31
+    span:
+    - body
+    - 1250
+    - 1250
+  label: 第貳拾玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-32
+    span:
+    - body
+    - 1283
+    - 1283
+  label: 第參拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-33
+    span:
+    - body
+    - 1321
+    - 1321
+  label: 第參拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-34
+    span:
+    - body
+    - 1346
+    - 1346
+  label: 第參拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-35
+    span:
+    - body
+    - 1391
+    - 1391
+  label: 第參拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-36
+    span:
+    - body
+    - 1438
+    - 1438
+  label: 第參拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-37
+    span:
+    - body
+    - 1471
+    - 1471
+  label: 第參拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-38
+    span:
+    - body
+    - 1504
+    - 1504
+  label: 第參拾陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-39
+    span:
+    - body
+    - 1548
+    - 1548
+  label: 第參拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-40
+    span:
+    - body
+    - 1589
+    - 1589
+  label: 第參拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-41
+    span:
+    - body
+    - 1634
+    - 1634
+  label: 第參拾玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-42
+    span:
+    - body
+    - 1667
+    - 1667
+  label: 第肆拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-43
+    span:
+    - body
+    - 1716
+    - 1716
+  label: 第肆拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-44
+    span:
+    - body
+    - 1737
+    - 1737
+  label: 第肆拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-45
+    span:
+    - body
+    - 1776
+    - 1776
+  label: 第肆拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-46
+    span:
+    - body
+    - 1809
+    - 1809
+  label: 第肆拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-47
+    span:
+    - body
+    - 1842
+    - 1842
+  label: 第肆拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-48
+    span:
+    - body
+    - 1875
+    - 1875
+  label: 第肆拾陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-49
+    span:
+    - body
+    - 1908
+    - 1908
+  label: 第肆拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-50
+    span:
+    - body
+    - 1941
+    - 1941
+  label: 第肆拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-51
+    span:
+    - body
+    - 1981
+    - 1981
+  label: 罰籤方
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-52
+    span:
+    - body
+    - 2020
+    - 2020
+  label: 外證籤方
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-53
+    span:
+    - body
+    - 2095
+    - 2095
+  label: 第壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-54
+    span:
+    - body
+    - 2118
+    - 2118
+  label: 第貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-55
+    span:
+    - body
+    - 2134
+    - 2134
+  label: 第參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-56
+    span:
+    - body
+    - 2157
+    - 2157
+  label: 第肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-57
+    span:
+    - body
+    - 2170
+    - 2170
+  label: 第伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-58
+    span:
+    - body
+    - 2183
+    - 2183
+  label: 第陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-59
+    span:
+    - body
+    - 2206
+    - 2206
+  label: 第柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-60
+    span:
+    - body
+    - 2219
+    - 2219
+  label: 第捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-61
+    span:
+    - body
+    - 2236
+    - 2236
+  label: 第玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-62
+    span:
+    - body
+    - 2259
+    - 2259
+  label: 第拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-63
+    span:
+    - body
+    - 2276
+    - 2276
+  label: 第拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-64
+    span:
+    - body
+    - 2295
+    - 2295
+  label: 第拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-65
+    span:
+    - body
+    - 2309
+    - 2309
+  label: 第拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-66
+    span:
+    - body
+    - 2323
+    - 2323
+  label: 第拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-67
+    span:
+    - body
+    - 2347
+    - 2347
+  label: 第拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-68
+    span:
+    - body
+    - 2361
+    - 2361
+  label: 第拾陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-69
+    span:
+    - body
+    - 2375
+    - 2375
+  label: 第拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-70
+    span:
+    - body
+    - 2389
+    - 2389
+  label: 第拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-71
+    span:
+    - body
+    - 2413
+    - 2413
+  label: 第拾玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-72
+    span:
+    - body
+    - 2427
+    - 2427
+  label: 第貳拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-73
+    span:
+    - body
+    - 2447
+    - 2447
+  label: 第貳拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-74
+    span:
+    - body
+    - 2466
+    - 2466
+  label: 第貳拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-75
+    span:
+    - body
+    - 2481
+    - 2481
+  label: 第貳拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-76
+    span:
+    - body
+    - 2503
+    - 2503
+  label: 第貳拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-77
+    span:
+    - body
+    - 2520
+    - 2520
+  label: 第貳拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-78
+    span:
+    - body
+    - 2535
+    - 2535
+  label: 第貳拾陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-79
+    span:
+    - body
+    - 2554
+    - 2554
+  label: 第貳拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-80
+    span:
+    - body
+    - 2569
+    - 2569
+  label: 第貳拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-81
+    span:
+    - body
+    - 2584
+    - 2584
+  label: 第拾貳玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-82
+    span:
+    - body
+    - 2599
+    - 2599
+  label: 第參拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-83
+    span:
+    - body
+    - 2613
+    - 2613
+  label: 第參拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-84
+    span:
+    - body
+    - 2628
+    - 2628
+  label: 第參拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-85
+    span:
+    - body
+    - 2653
+    - 2653
+  label: 第參拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-86
+    span:
+    - body
+    - 2668
+    - 2668
+  label: 第參拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-87
+    span:
+    - body
+    - 2683
+    - 2683
+  label: 第參拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-88
+    span:
+    - body
+    - 2704
+    - 2704
+  label: 第參肆陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-89
+    span:
+    - body
+    - 2719
+    - 2719
+  label: 第參拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-90
+    span:
+    - body
+    - 2734
+    - 2734
+  label: 第參拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-91
+    span:
+    - body
+    - 2749
+    - 2749
+  label: 第參肆玖籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-92
+    span:
+    - body
+    - 2774
+    - 2774
+  label: 第肆拾籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-93
+    span:
+    - body
+    - 2790
+    - 2790
+  label: 第肆拾壹籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-94
+    span:
+    - body
+    - 2805
+    - 2805
+  label: 第肆拾貳籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-95
+    span:
+    - body
+    - 2820
+    - 2820
+  label: 第肆拾參籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-96
+    span:
+    - body
+    - 2833
+    - 2833
+  label: 第肆拾肆籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-97
+    span:
+    - body
+    - 2848
+    - 2848
+  label: 第肆拾伍籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-98
+    span:
+    - body
+    - 2873
+    - 2873
+  label: 第肆拾陸籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-99
+    span:
+    - body
+    - 2888
+    - 2888
+  label: 第肆拾柒籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-100
+    span:
+    - body
+    - 2907
+    - 2907
+  label: 第肆拾捌籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0123_X_005-mulu-101
+    span:
+    - body
+    - 2928
+    - 2928
+  label: 罰籤
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 10325
+  label: 蓮修起信錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 厭塵雜著
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-3
+    span:
+    - body
+    - 11
+    - 11
+  label: 獄空懺表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-4
+    span:
+    - body
+    - 545
+    - 545
+  label: 施丹濟生表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-5
+    span:
+    - body
+    - 744
+    - 744
+  label: 乞消災厄表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-6
+    span:
+    - body
+    - 889
+    - 889
+  label: 超拔淹溺表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-7
+    span:
+    - body
+    - 1033
+    - 1033
+  label: 超󳫠祖宗表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-8
+    span:
+    - body
+    - 1341
+    - 1341
+  label: 挽劫表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-9
+    span:
+    - body
+    - 1524
+    - 1524
+  label: 臨終助念偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-10
+    span:
+    - body
+    - 1942
+    - 1942
+  label: 焚塔偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-11
+    span:
+    - body
+    - 2860
+    - 2860
+  label: 傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-12
+    span:
+    - body
+    - 2861
+    - 2861
+  label: 悟和法師傳略
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-13
+    span:
+    - body
+    - 4510
+    - 4510
+  label: 說
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-14
+    span:
+    - body
+    - 4511
+    - 4511
+  label: 因果淺說
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0123_X_006-mulu-15
+    span:
+    - body
+    - 10072
+    - 10072
+  label: 詩
+  type: mulu
+  level: 1
+hash: sha256:adfaee33a955a4f2e7e9070137ea8481021eb4016dc8913f93bf20bdbdd736e9
