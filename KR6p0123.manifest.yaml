@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0123_000.yaml, hash: 'sha256:8c5e762aa552c43ba38d2c4b3b65a6825d85d6a0e2e32360e6b4b526eb5bc60c'}
+  - {seq: 0, filename: KR6p0123_000.yaml, hash: 'sha256:83c35517680bf26d0f4460c3dbac4b44cc92e96bf0c0e37df298918f0a064263'}
   - {seq: 1, filename: KR6p0123_001.yaml, hash: 'sha256:f47c36b47ebb2d724abb49e8c2b5dc9c0823486bc06a644147a18889010f64be'}
   - {seq: 2, filename: KR6p0123_002.yaml, hash: 'sha256:3d847b917e051704763524c4b826e33c955a5d3d1ada512e2645b89c2b5c89ca'}
   - {seq: 3, filename: KR6p0123_003.yaml, hash: 'sha256:1143595a17a88c9ec61a86e9fd1690ccbe74dae569e766a0ed0b01464c2cba37'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6p0123_005.yaml, hash: 'sha256:381c3f8ef6802c5308ec7ffdd988de5ffffec3a497999689b20d1b21e8c80b3c'}
   - {seq: 6, filename: KR6p0123_006.yaml, hash: 'sha256:00d8317ae205573b36e3e20dab46ffac1ea2aa1510307aa4a98ce715b7cee800'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0123_000.markers.yaml, hash: 'sha256:61ac5e850674216d5f3d28b4c6a6154dfd32d23f7bfb938af9e3c1fdaba78b46'}
+  - {seq: 0, role: markers, filename: assets/KR6p0123_000.markers.yaml, hash: 'sha256:72a99e313cc21845a2e77c876668fd971a1e52734c393186d6746396f0990b4e'}
   - {seq: 1, role: markers, filename: assets/KR6p0123_001.markers.yaml, hash: 'sha256:84b111a3411b03ac7c95a5e6d4437ffd40cc0fc24085f1c2395ab03d288ae5df'}
   - {seq: 2, role: markers, filename: assets/KR6p0123_002.markers.yaml, hash: 'sha256:024569db12a509636e2ad3ee22d4de4e56de07ed167c9ee6d9744872282834ce'}
   - {seq: 3, role: markers, filename: assets/KR6p0123_003.markers.yaml, hash: 'sha256:e22b5835c67726a61ffcbb91b1571e2e9b46564f4f34f3571f1d94b7ab1a71d2'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0123_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1204-A 蓮修起信錄
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0123_X_000-mulu-2
     span:
-    - front
+    - body
     - 217
     - 217
   label: No. 1204-B 淨雲菩薩敘
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0123_X_000-mulu-3
     span:
-    - front
+    - body
     - 689
     - 689
   label: No. 1204-C 敘
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0123_X_000-mulu-4
     span:
-    - front
+    - body
     - 1379
     - 1379
   label: No. 1204-D 敘
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0123_X_000-mulu-5
     span:
-    - front
+    - body
     - 1727
     - 1727
   label: No. 1204-E 敘
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0123_X_000-mulu-6
     span:
-    - front
+    - body
     - 3079
     - 3079
   label: 蓮修起信錄目錄
@@ -1517,7 +1517,7 @@ table_of_contents:
   label: 詩
   type: mulu
   level: 1
-hash: sha256:bf5733d303f41d289d7d5c06c30fc9bc7e07e79ea10a732d8331818362bf6a17
+hash: sha256:1737b8dea19cdffad10cc74025f23ac4d618ea71919939c4cca3de91b9313d02
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
